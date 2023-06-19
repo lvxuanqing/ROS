@@ -1,0 +1,8 @@
+py中文：
+#-*- coding:utf-8 –*-
+source一个空间：
+source devel/setup.bash /
+跑程序
+rosrun car test.py 
+小乌龟：
+rosrun turtlesim turtlesim_node
